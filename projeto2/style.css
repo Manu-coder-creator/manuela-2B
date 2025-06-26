@@ -6,4 +6,6 @@ footer {
     background-color: lightpink;
     color: darkslateblue;
     bottom: 0;
+    text-align: center;
+    position: relative;
 }
