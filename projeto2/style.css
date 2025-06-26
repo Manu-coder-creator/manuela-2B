@@ -6,7 +6,7 @@ footer {
     background-color: lightpink;
     color: darkslateblue;
     bottom: 0;
-    position: fixed;
+    position: center;
     width: auto;
 }
 
