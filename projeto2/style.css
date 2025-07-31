@@ -35,4 +35,5 @@ height: 100%;
     padding: 0.6 rem;
     margin: 0.5 rem;
     background-color: rgb(167, 29, 107);
+    position: absolute;
 }
