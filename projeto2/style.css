@@ -10,7 +10,7 @@ footer {
     color: darkslateblue;
     bottom: 0;
     position: fixed;
-    width: auto;
+    width: 100%;
 }
 
 footer p {
