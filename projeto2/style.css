@@ -14,7 +14,7 @@ body {
 
 footer {
     background-color: rgb(255, 236, 244);
-    color: darkslateblue;
+    color: var(--card-back-color);
     bottom: 0;
     position: fixed;
     width: 100%;
