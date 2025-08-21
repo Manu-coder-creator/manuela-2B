@@ -1,3 +1,10 @@
+:root {
+    --text-color:#383838;
+    --card-front-color: rgb(246, 138, 183);
+    --card-back-color: rgb(206, 40, 120);
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
@@ -6,7 +13,7 @@ body {
 }
 
 footer {
-    background-color: lightpink;
+    background-color: rgb(255, 236, 244);
     color: darkslateblue;
     bottom: 0;
     position: fixed;
@@ -31,6 +38,8 @@ footer p {
 height: 100%;
 }
 .card__content h3{
+    color: var(--text-color)
+    border: 1px solid var(--text-color)
     text-align: left;
     padding: 0.6 rem;
     margin: 0.5 rem;
