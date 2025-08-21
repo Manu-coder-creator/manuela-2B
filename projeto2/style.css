@@ -45,9 +45,9 @@ footer p {
 }
 
 .card__content p {
+    margin-top: 1rem;
+    padding: 1rem;
     margin-top: 2rem;
-    padding: 3rem;
-    margin-top: 4rem;
 }
 
 .card__content h3{
@@ -72,7 +72,6 @@ footer p {
 .card__content__answer,
 .card__content__question {
     backface-visibility: hidden;
-    position: absolute;
     height: 100%;
     width: 100%;
 }
