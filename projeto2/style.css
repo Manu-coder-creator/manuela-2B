@@ -34,8 +34,8 @@ footer p {
 
 .card__content {
     margin: 1rem 1rem;
-    background-color: rgb(246, 138, 183);
-height: 100%;
+    background-color: var(--card-front-color);
+    height: 100%;
 }
 .card__content h3{
     color: var(--text-color);
