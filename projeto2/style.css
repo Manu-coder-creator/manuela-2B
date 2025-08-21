@@ -40,6 +40,8 @@ footer p {
     margin: 1rem 1rem;
     background-color: var(--card-front-color);
     height: 100%;
+    transform-style: preserve-3d;
+    
 }
 .card__content h3{
     color: var(--text-color);
