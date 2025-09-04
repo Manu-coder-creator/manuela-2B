@@ -50,13 +50,13 @@ body {
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
-    font-size: 4px;
+    font-size: 10000px;
 }
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 500;
-    font-size: 4px;
+    font-size: 10000px;
 }
 
 .cartao:hover .cartao__conteudo {
