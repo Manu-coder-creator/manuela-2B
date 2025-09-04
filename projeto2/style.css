@@ -48,12 +48,12 @@ body {
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
-    font-weight: 500;
+    font-weight: 1000;
 }
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 1000;
 }
 
 .cartao:hover .cartao__conteudo {
