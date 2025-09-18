@@ -35,19 +35,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'O que é um aquífero?',
-    'Aquífero é uma reserva de água subterrânea'
+    'Matemática',
+    'Qual é a fórmula da Função Afim?',
+    'f(x) = ax + b'
 )
 
 criaCartao(
-    'Geografia',
-    'O que é um aquífero?',
-    'Aquífero é uma reserva de água subterrânea'
+    'Robótica',
+    'O que é arduíno?',
+    'Aparelho eletrônico no qual podemos códigos'
 )
 
 criaCartao(
-    'Geografia',
-    'O que é um aquífero?',
-    'Aquífero é uma reserva de água subterrânea'
+    'Projeto de Vida',
+    'Qual é a principal habilidade que um líder deve ter?',
+    'A capacidade de influenciar pessoas'
 )
