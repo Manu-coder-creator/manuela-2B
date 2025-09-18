@@ -11,6 +11,36 @@ criaCartao(
 )
 
 criaCartao(
+    'Química',
+    'Qual é a formula da variação de entalpia?',
+    'Ent. dos produtos - Ent. dos reagentes = Variação de entalpia'
+)
+
+criaCartao(
+    'Inglês',
+    'O que significa ACCOUNTABILITY?',
+    'Responsabilidade'
+)
+
+criaCartao(
+    'Cidadania e Civismo',
+    'Quais são os patronos das Forças Armadas?',
+    'Santos Dummont (Aeronáutica), Almirante Tamandaré (Marinha) e Duque de Caxias (Exército)'
+)
+
+criaCartao(
+    '',
+    'O que é um aquífero?',
+    'Aquífero é uma reserva de água subterrânea'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é um aquífero?',
+    'Aquífero é uma reserva de água subterrânea'
+)
+
+criaCartao(
     'Geografia',
     'O que é um aquífero?',
     'Aquífero é uma reserva de água subterrânea'
