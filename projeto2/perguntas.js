@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
     'Educação Financeira',
     'Quais as diferenças entre renda fixa e variável?',
-    'RENDA FIXA: depende da Taxa Selic, menor risco de perda, porém, menor lucro'
+    'RENDA FIXA: depende da Taxa Selic, menor risco de perda, porém, menor lucro. RENDA VARIÀVEL: depende da economia nacional e internacional, grande risco de perda e maior lucro'
 )
 
 criaCartao(
