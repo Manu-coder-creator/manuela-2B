@@ -45,3 +45,9 @@ criaCartao(
     'O que é um aquífero?',
     'Aquífero é uma reserva de água subterrânea'
 )
+
+criaCartao(
+    'Geografia',
+    'O que é um aquífero?',
+    'Aquífero é uma reserva de água subterrânea'
+)
