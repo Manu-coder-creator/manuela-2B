@@ -29,9 +29,9 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'O que é um aquífero?',
-    'Aquífero é uma reserva de água subterrânea'
+    'Educação Financeira',
+    'Quais as diferenças entre renda fixa e variável?',
+    'RENDA FIXA: depende da Taxa Selic, menor risco de perda, porém, menor lucro'
 )
 
 criaCartao(
