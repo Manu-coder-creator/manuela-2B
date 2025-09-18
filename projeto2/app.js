@@ -5,12 +5,12 @@ function criaCartao(categoria, pergunta, resposta) {
     cartao.className = 'cartao'
     cartao.innerHTML = `
     <div class="cartao__conteudo">
-        <h3>Biologia</h3>
+        <h3>${categoria}</h3>
         <div class="cartao__conteudo__pergunta">
-            <p>Qual a organela responsável pela respiração celular?</p>
+            <p>${pergunta}</p>
         </div>
         <div class="cartao__conteudo__resposta">
-            <p>A organela responsável pela respiração é a mitocôndria</p>
+            <p>${resposta}</p>
         </div>
     </div>`
 
